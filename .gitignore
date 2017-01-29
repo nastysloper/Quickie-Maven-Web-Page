@@ -1,0 +1,8 @@
+# Tell git to ignore these files:
+
+# For Mac:
+.DS_STORE
+
+# For Maven:
+log/
+target/
