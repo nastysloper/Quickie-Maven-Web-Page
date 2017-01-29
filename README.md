@@ -1,8 +1,8 @@
 This assumes you have both Maven and Tomcat installed
 on your machine.
 
-Clone the repo.
-Run 
+Clone the repo. Change directories into the root directory
+where the POM is. Run 
 
 mvn clean install 
 
